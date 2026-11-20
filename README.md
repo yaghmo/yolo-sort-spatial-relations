@@ -1,3 +1,5 @@
+[![YOLO + SORT tracking: the 20-second video (click to play)](assets/brag.jpg)](assets/brag.mp4)
+
 # Abstract
 
 This project is centered around the analysis of spatial and temporal relationships among objects in videos, employing the Force Banner concept and integrating it into a learning process. The project encompasses several key steps, including video parsing and frame separation, object detection, and segmentation using YOLOv8, object tracking over time using the SORT algorithm, calculation of Force Histograms between pairs of objects (masks) to serve as descriptors for each frame, and the creation of the Force Banner using the derived descriptors. The methodology of the project will be tested and compared across various video types, including synthetic sequences and real-world datasets that feature action scenarios and drone footage.
